@@ -3580,7 +3580,7 @@ textarea.form-control-lg {
   --bs-position: start;
 }
 .dropdown-menu-start[data-bs-popper] {
-  right: auto;
+  right: 10px;
   left: 0;
 }
 
@@ -3597,7 +3597,7 @@ textarea.form-control-lg {
     --bs-position: start;
   }
   .dropdown-menu-sm-start[data-bs-popper] {
-    right: auto;
+    right: 10px;
     left: 0;
   }
 
@@ -3614,7 +3614,7 @@ textarea.form-control-lg {
     --bs-position: start;
   }
   .dropdown-menu-md-start[data-bs-popper] {
-    right: auto;
+    right: 10px;
     left: 0;
   }
 
@@ -3631,7 +3631,7 @@ textarea.form-control-lg {
     --bs-position: start;
   }
   .dropdown-menu-lg-start[data-bs-popper] {
-    right: auto;
+    right: 10 px;
     left: 0;
   }
 
@@ -3648,7 +3648,7 @@ textarea.form-control-lg {
     --bs-position: start;
   }
   .dropdown-menu-xl-start[data-bs-popper] {
-    right: auto;
+    right: 10px;
     left: 0;
   }
 
@@ -3724,7 +3724,7 @@ textarea.form-control-lg {
 .dropstart .dropdown-menu[data-bs-popper] {
   top: 0;
   right: 100%;
-  left: auto;
+  left: 10px;
   margin-top: 0;
   margin-right: 0.125rem;
 }
