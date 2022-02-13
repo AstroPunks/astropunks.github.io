@@ -4034,9 +4034,9 @@ textarea.form-control-lg {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding-top: 26.5px;
-  padding-bottom: 26.5px;
-  min-height: 80px;
+  padding-top: 6.5px;
+  padding-bottom: 6.5px;
+  min-height: 40px;
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -4052,8 +4052,8 @@ textarea.form-control-lg {
 }
 .navbar-brand {
   padding: 0 15px;
-  height: 80px;
-  line-height: 80px;
+  height: 40px;
+  line-height: 40px;
   margin-right: 1rem;
   font-size: 1.25rem;
   text-decoration: none;
@@ -4186,6 +4186,7 @@ textarea.form-control-lg {
   }
   .navbar-expand-md .navbar-nav .dropdown-menu {
     position: absolute;
+    padding-right: 5px;
   }
   .navbar-expand-md .navbar-nav .nav-link {
     padding-right: 0.5rem;
@@ -4239,6 +4240,7 @@ textarea.form-control-lg {
   }
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
+    padding-right: 5px;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 0.5rem;
@@ -4292,6 +4294,7 @@ textarea.form-control-lg {
   }
   .navbar-expand-xl .navbar-nav .dropdown-menu {
     position: absolute;
+    padding-right: 5px;
   }
   .navbar-expand-xl .navbar-nav .nav-link {
     padding-right: 0.5rem;
@@ -4345,6 +4348,7 @@ textarea.form-control-lg {
   }
   .navbar-expand-xxl .navbar-nav .dropdown-menu {
     position: absolute;
+    padding-right: 5px;
   }
   .navbar-expand-xxl .navbar-nav .nav-link {
     padding-right: 0.5rem;
@@ -4397,6 +4401,7 @@ textarea.form-control-lg {
 }
 .navbar-expand .navbar-nav .dropdown-menu {
   position: absolute;
+  padding-right: 5px;
 }
 .navbar-expand .navbar-nav .nav-link {
   padding-right: 0.5rem;
@@ -11408,8 +11413,7 @@ p {
   }
 }
 header.masthead {
-  padding-top: 10.5rem;
-  padding-bottom: 6rem;
+  padding-top: 0;
   text-align: center;
   color: #fff;
   background-image: url("../assets/img/header-bg.png");
