@@ -4034,8 +4034,9 @@ textarea.form-control-lg {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 26.5px;
+  padding-bottom: 26.5px;
+  min-height: 80px;
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -4050,8 +4051,9 @@ textarea.form-control-lg {
   justify-content: space-between;
 }
 .navbar-brand {
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
   margin-right: 1rem;
   font-size: 1.25rem;
   text-decoration: none;
@@ -4084,7 +4086,7 @@ textarea.form-control-lg {
 }
 
 .navbar-toggler {
-  padding: 0.25rem 0.75rem;
+  padding: 9px 10px !important;
   font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
@@ -4216,7 +4218,7 @@ textarea.form-control-lg {
   }
   .navbar-expand-md .offcanvas-top,
 .navbar-expand-md .offcanvas-bottom {
-    height: auto;
+    height: 80px;
     border-top: 0;
     border-bottom: 0;
   }
@@ -4269,7 +4271,7 @@ textarea.form-control-lg {
   }
   .navbar-expand-lg .offcanvas-top,
 .navbar-expand-lg .offcanvas-bottom {
-    height: auto;
+    height: 80px;
     border-top: 0;
     border-bottom: 0;
   }
