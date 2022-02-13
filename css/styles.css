@@ -3559,7 +3559,7 @@ textarea.form-control-lg {
   z-index: 1000;
   display: none;
   min-width: 10rem;
-  padding: 0.5rem 5px;
+  padding: 10px;
   margin: 0;
   font-size: 1rem;
   color: #212529;
@@ -4036,7 +4036,7 @@ textarea.form-control-lg {
   justify-content: space-between;
   padding-top: 6.5px;
   padding-bottom: 6.5px;
-  min-height: 40px;
+  min-height: 20px;
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -4052,8 +4052,8 @@ textarea.form-control-lg {
 }
 .navbar-brand {
   padding: 0 15px;
-  height: 40px;
-  line-height: 40px;
+  height: 20px;
+  line-height: 20px;
   margin-right: 1rem;
   font-size: 1.25rem;
   text-decoration: none;
