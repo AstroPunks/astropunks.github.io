@@ -4836,8 +4836,8 @@ textarea.form-control-lg {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #ffc800;
-  border-color: #ffc800;
+  background-color: #1f90d6;
+  border-color: #1f90d6;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -5033,7 +5033,7 @@ textarea.form-control-lg {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #ffc800;
+  background-color: #1f90d6;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5116,8 +5116,8 @@ textarea.form-control-lg {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #ffc800;
-  border-color: #ffc800;
+  background-color: #1f90d6;
+  border-color: #1f90d6;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -6435,7 +6435,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #ffc800;
+  color: #1f90d6;
 }
 .link-primary:hover, .link-primary:focus {
   color: #cca000;
@@ -6463,7 +6463,7 @@ textarea.form-control-lg {
 }
 
 .link-warning {
-  color: #ffc800;
+  color: #1f90d6;
 }
 .link-warning:hover, .link-warning:focus {
   color: #cca000;
@@ -6480,7 +6480,7 @@ textarea.form-control-lg {
   color: #f8f9fa;
 }
 .link-light:hover, .link-light:focus {
-  color: #f9fafb;
+  color: #1f90d6;
 }
 
 .link-dark {
@@ -11342,7 +11342,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #1e90d6;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -11352,7 +11352,7 @@ p {
   font-weight: 700;
 }
 #mainNav .navbar-brand {
-  color: #ffc800;
+  color: #1e90d6;
   font-family: "Share Tech", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   letter-spacing: 0.0625em;
@@ -11368,7 +11368,7 @@ p {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffc800;
+  color: #000000;
 }
 
 @media (min-width: 992px) {
@@ -11390,7 +11390,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #2291d8;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -11465,7 +11465,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(255, 200, 0, 0.9);
+  background: rgba(32, 145, 213, 0.9);
   align-items: center;
   justify-content: center;
   opacity: 0;
