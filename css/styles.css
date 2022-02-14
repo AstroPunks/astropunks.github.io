@@ -4805,7 +4805,7 @@ textarea.form-control-lg {
 .page-link {
   position: relative;
   display: block;
-  color: #ffc800;
+  color: #2291d8;
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #dee2e6;
@@ -6888,7 +6888,7 @@ textarea.form-control-lg {
 }
 
 .border-primary {
-  border-color: #ffc800 !important;
+  border-color: #2291d8 !important;
 }
 
 .border-secondary {
@@ -6904,7 +6904,7 @@ textarea.form-control-lg {
 }
 
 .border-warning {
-  border-color: #ffc800 !important;
+  border-color: #2291d8 !important;
 }
 
 .border-danger {
@@ -11411,7 +11411,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/header-bg.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center bottom;
@@ -11749,7 +11749,7 @@ section#contact form#contactForm p.help-block {
   margin: 0;
 }
 section#contact form#contactForm .form-control:focus {
-  border-color: #ffc800;
+  border-color: #2291d8;
   box-shadow: none;
 }
 section#contact form#contactForm ::-webkit-input-placeholder {
