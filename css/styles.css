@@ -3559,7 +3559,7 @@ textarea.form-control-lg {
   z-index: 1000;
   display: none;
   min-width: 7rem;
-  padding: 0;
+  padding-right: 5px;
   margin: 0;
   font-size: 1rem;
   color: #212529;
