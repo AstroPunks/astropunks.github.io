@@ -123,7 +123,7 @@ h2, .h2 {
 }
 @media (min-width: 1200px) {
   h2, .h2 {
-    font-size: 2rem;
+    font-size: 1.75rem;
   }
 }
 
@@ -643,27 +643,27 @@ progress {
 
 @media (min-width: 576px) {
   .container-sm, .container {
-    max-width: 500px;
+    max-width: 540px;
   }
 }
 @media (min-width: 768px) {
   .container-md, .container-sm, .container {
-    max-width: 680px;
+    max-width: 720px;
   }
 }
 @media (min-width: 992px) {
   .container-lg, .container-md, .container-sm, .container {
-    max-width: 9200px;
+    max-width: 960px;
   }
 }
 @media (min-width: 1200px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1100px;
+    max-width: 1140px;
   }
 }
 @media (min-width: 1400px) {
   .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1280px;
+    max-width: 1320px;
   }
 }
 .row {
@@ -11306,7 +11306,7 @@ p {
   padding: 6rem 0;
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -11506,7 +11506,7 @@ header.masthead .masthead-heading {
   text-align: center;
 }
 .sneakpeek-modal .modal-content h2, .sneakpeek-modal .modal-content .h2 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   line-height: 3rem;
 }
 .sneakpeek-modal .modal-content p.item-intro {
