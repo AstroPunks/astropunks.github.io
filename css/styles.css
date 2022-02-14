@@ -11407,8 +11407,8 @@ p {
   }
 }
 header.masthead {
-  padding-top: 10.5rem;
-  padding-bottom: 6rem;
+  padding-top: 20px;
+  padding-bottom: 0;
   text-align: center;
   color: #fff;
   background-image: url("../assets/img/header-bg.png");
