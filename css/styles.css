@@ -635,8 +635,8 @@ progress {
 .container-md,
 .container-sm {
   width: 100%;
-  padding-right: 5px(--bs-gutter-x, 0.75rem);
-  padding-left: 5px(--bs-gutter-x, 0.75rem);
+  padding-right: 5px;
+  padding-left: 5px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -648,7 +648,7 @@ progress {
 }
 @media (min-width: 768px) {
   .container-md, .container-sm, .container {
-    max-width: 720px;
+    max-width: 100%;
   }
 }
 @media (min-width: 992px) {
